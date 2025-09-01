@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', 'localhost');
+define('DB_SERVER', 'fdb1034.awardspace.net');
 define('DB_USERNAME', '4667275_votacion');
 define('DB_PASSWORD', 'contrasena2004');
 define('DB_NAME', '4667275_votacion');
